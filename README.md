@@ -18,5 +18,5 @@ Database: `otrs`)
 ```
 
 #### OTRS Version
-Default version is 4.0.3 
+Default version is 4.0.5
 You can pick your desired OTRS version by setting the VERSION variable at the start of ```init.sh```
