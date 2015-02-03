@@ -1,4 +1,4 @@
-VERSION="4.0.3" # OTRS
+VERSION="4.0.5" # OTRS
 
 echo "apt-get update..."
 sudo apt-get update > /dev/null
